@@ -1,3 +1,3 @@
-aspiring rust/zig/clojure programmer
-
+aspiring rust/zig/clojure 
+---
 if I have unlimited computer usage I would be a 10x engineer by now 
