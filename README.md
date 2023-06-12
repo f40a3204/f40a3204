@@ -1,4 +1,4 @@
-#  -  amateur half-braindead programmer 
+# F40 - amateur half-braindead programmer 
 
 functional programming enjoyer
 
